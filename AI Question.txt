@@ -1,0 +1,61 @@
+ section A
+
+ 1.  Answer: Meta.
+ 2.  Answer: Google (Google DeepMind).
+ 3.  Answer: Anthropic.
+ 4.  Answer: xAI.
+ 5.  Answer: Mistral AI.
+ 6.  Answer: OpenAI.
+ 7.  Answer: AI-generated video.
+ 8.  Answer: Google.
+ 9.  Answer: AI image generation.
+ 10. Answer: AI-assisted coding and code completion.
+
+section B
+
+ 11. Answer: Large Language Model.
+ 12. Answer:
+ 13. Answer: An instruction or input given to an AI model.
+ 14. Answer: A high-level instruction that defines how an AI assistant should behave.
+ 15. Answer: AI that can work with more than one data type, such as text, images, audio, or video.
+ 16. Answer: A confident but incorrect or unsupported AI-generated answer.
+ 17. Answer: Small units of text that an LLM processes.
+ 18. Answer:
+ 19. Answer: 
+ 20. Answer: Further training an existing model on specific data 
+
+section C
+
+21. Answer: An AI system that can plan, use tools, and perform multi-step tasks. 22. Answer:
+23. Answer: Allowing an AI model to invoke external functions, APIs, or tools. 24. Answer: Model Context Protocol.
+25. Answer: It authenticates and authorizes access to the AI service.
+26. Answer: 
+27. Answer: An AI-powered code editor/IDE.
+28. Answer: 
+29. Answer: Search based on meaning rather than only exact keywords.
+30. Answer: Example: code generation, debugging, and test-case creation.
+
+section D
+
+31.Answer: AI that converts spoken audio into written text.
+32.Answer: AI that converts written text into spoken audio.
+33.Answer: 
+35.Answer: AI that generates video from a text description.
+36.Answer: 
+37.Answer: They perform many parallel calculations efficiently.
+38.Answer: 
+39.Answer: Model weights and intermediate data used by the GPU. 
+40.Answer: Running the model on your own computer or server instead of a remote cloud service.
+
+section E
+
+41.Answer: A model whose trained weights are made available for users to download and run.
+42. Answer: Training a smaller model to imitate a larger model's behavior.
+43. Answer:
+44. Answer: Mixture of Experts.
+45. Answer:
+46. Answer: A rule or control used to keep AI behavior safe and within allowed limits.
+47. Answer: An attack that tries to manipulate an AI model through malicious instructions.
+48. Answer:
+49. Answer:
+50. Answer:
